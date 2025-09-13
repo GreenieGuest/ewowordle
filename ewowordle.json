@@ -1,0 +1,1982 @@
+[
+  {
+    "uuid": "01bc562a-3f96-4234-b2ea-e0baa31707de",
+    "name": "Filipino Mathematician 23",
+    "lives": 1,
+    "rrs": 929.63,
+    "r1": 435,
+    "r2": 275,
+    "r3": 138
+  },
+  {
+    "uuid": "01cf4ea5-c596-4eb3-ac21-274ac8629a54",
+    "name": "Swift Smartypants",
+    "lives": 3,
+    "rrs": 1120.75,
+    "r1": 36,
+    "r2": 166,
+    "r3": 78
+  },
+  {
+    "uuid": "020ae547-2652-47e9-b993-25b20461f53f",
+    "name": "Juhmatok",
+    "lives": 3,
+    "rrs": 1148.58,
+    "r1": 68,
+    "r2": 106,
+    "r3": 37
+  },
+  {
+    "uuid": "02589836-32b8-4805-89b7-7e25cafbfb8e",
+    "name": "Onchú",
+    "lives": 3,
+    "rrs": 1126.82,
+    "r1": 131,
+    "r2": 45,
+    "r3": 53
+  },
+  {
+    "uuid": "0305a5d7-af5d-4442-94aa-c7d6f1c4db2b",
+    "name": "Jaydi Kiwi",
+    "lives": 1,
+    "rrs": 886.72,
+    "r1": 58,
+    "r2": 164,
+    "r3": 268
+  },
+  {
+    "uuid": "030ee1e7-d979-4cbe-9eb1-7afa649789a9",
+    "name": "fonda1515",
+    "lives": 1,
+    "rrs": 964.21,
+    "r1": 60,
+    "r2": 286,
+    "r3": 279
+  },
+  {
+    "uuid": "0380dc9a-0033-4a0c-91ea-fe321bbd801c",
+    "name": "Grammar Lee",
+    "lives": 3,
+    "rrs": 1180.03,
+    "r1": 32,
+    "r2": 5,
+    "r3": 73
+  },
+  {
+    "uuid": "03e30002-9980-43ff-868b-9ec250c4c4b9",
+    "name": "Snoozingnewt",
+    "lives": 3,
+    "rrs": 1241.36,
+    "r1": 11,
+    "r2": 58,
+    "r3": 12
+  },
+  {
+    "uuid": "042a416c-64cd-4978-ad57-388a28c4aa5f",
+    "name": "Daylune",
+    "lives": 2,
+    "rrs": 1011.31,
+    "r1": 204,
+    "r2": 118,
+    "r3": 102
+  },
+  {
+    "uuid": "0566f300-63a7-4e85-b1d0-4be52190946e",
+    "name": "Naslemi Jones",
+    "lives": 1,
+    "rrs": 891.59,
+    "r1": 311,
+    "r2": 240,
+    "r3": 85
+  },
+  {
+    "uuid": "0904c279-a2c5-4f65-8583-748f42460498",
+    "name": "Owner of the Phattest Dumptruck Imaginable (674kg)",
+    "lives": 3,
+    "rrs": 1100.31,
+    "r1": 207,
+    "r2": 97,
+    "r3": 66
+  },
+  {
+    "uuid": "0cff7bd0-b60b-491c-a74c-e93e9d378540",
+    "name": "Fred Something",
+    "lives": 1,
+    "rrs": 911.34,
+    "r1": 453,
+    "r2": 344,
+    "r3": 132
+  },
+  {
+    "uuid": "0e3d1704-ed4a-4360-ad42-e24289eff461",
+    "name": "Mitochondrial Bob",
+    "lives": 3,
+    "rrs": 1097.57,
+    "r1": 12,
+    "r2": 167,
+    "r3": 44
+  },
+  {
+    "uuid": "0f481ef6-ffe0-4b5b-8a2f-2b2bbfb8dae3",
+    "name": "Brandy?",
+    "lives": 3,
+    "rrs": 1233.7,
+    "r1": 20,
+    "r2": 10,
+    "r3": 39
+  },
+  {
+    "uuid": "11f746e8-2b2d-4644-818c-79589f897b7f",
+    "name": "Sea Storm",
+    "lives": 1,
+    "rrs": 833.61,
+    "r1": 139,
+    "r2": 295,
+    "r3": 36
+  },
+  {
+    "uuid": "12454086-b91a-424b-ab74-1c66eb4e801f",
+    "name": "Nerdy Gal",
+    "lives": 2,
+    "rrs": 1126.27,
+    "r1": 194,
+    "r2": 33,
+    "r3": 216
+  },
+  {
+    "uuid": "126919a8-3aad-4e68-a798-dced660539d9",
+    "name": "DogeBone3",
+    "lives": 3,
+    "rrs": 1177.12,
+    "r1": 27,
+    "r2": 135,
+    "r3": 24
+  },
+  {
+    "uuid": "142d274a-07f9-4de8-a4e9-f19aa4731db5",
+    "name": "PlasmicTrojan",
+    "lives": 3,
+    "rrs": 1163.61,
+    "r1": 82,
+    "r2": 11,
+    "r3": 40
+  },
+  {
+    "uuid": "14d6ae72-f82b-4d69-a155-9b752101c290",
+    "name": "CarbonFiber",
+    "lives": 1,
+    "rrs": 843.46,
+    "r1": 61,
+    "r2": 49,
+    "r3": 105
+  },
+  {
+    "uuid": "15cfd818-9921-43b7-99d0-87516420545e",
+    "name": "IceKeyHammer",
+    "lives": 2,
+    "rrs": 1150.17,
+    "r1": 37,
+    "r2": 257,
+    "r3": 129
+  },
+  {
+    "uuid": "19f9d6b7-6629-4275-b2ce-58d020b21128",
+    "name": "supernova16",
+    "lives": 1,
+    "rrs": 946.92,
+    "r1": 144,
+    "r2": 112,
+    "r3": 192
+  },
+  {
+    "uuid": "1a6f6288-778a-4c2d-bc9e-334be92f27ba",
+    "name": "scorb",
+    "lives": 5,
+    "rrs": 1311.66,
+    "r1": 34,
+    "r2": 12,
+    "r3": 8
+  },
+  {
+    "uuid": "20f82df1-036f-419d-afee-7741bf99feb1",
+    "name": "Azurite",
+    "lives": 2,
+    "rrs": 1057.85,
+    "r1": 5,
+    "r2": 20,
+    "r3": 213
+  },
+  {
+    "uuid": "210d228b-c7cf-43e7-9e9c-2f6d479e6709",
+    "name": "Algotistic",
+    "lives": 1,
+    "rrs": 1063.33,
+    "r1": 232,
+    "r2": 234,
+    "r3": 84
+  },
+  {
+    "uuid": "2295b6f7-c2d7-434b-baee-51d3dc648462",
+    "name": "Kinderdacat",
+    "lives": 1,
+    "rrs": 1011.1,
+    "r1": 45,
+    "r2": 76,
+    "r3": 220
+  },
+  {
+    "uuid": "23f86690-b641-4302-81ad-b39ed707de60",
+    "name": "Ixcors",
+    "lives": 3,
+    "rrs": 1034.12,
+    "r1": 174,
+    "r2": 80,
+    "r3": 59
+  },
+  {
+    "uuid": "2704d4cc-87d3-457a-b217-3c60d42fe48f",
+    "name": "Evolt",
+    "lives": 2,
+    "rrs": 1047.35,
+    "r1": 114,
+    "r2": 56,
+    "r3": 221
+  },
+  {
+    "uuid": "2ad7b046-b097-4130-9d52-07d8ad3b7d74",
+    "name": "Nihonium_LTE",
+    "lives": 1,
+    "rrs": 947.72,
+    "r1": 166,
+    "r2": 175,
+    "r3": 225
+  },
+  {
+    "uuid": "2c8cc3fa-c58e-471d-ae16-113af5937f90",
+    "name": "Verigold",
+    "lives": 1,
+    "rrs": 1010.8,
+    "r1": 241,
+    "r2": 46,
+    "r3": 222
+  },
+  {
+    "uuid": "2def45cf-bac1-47a3-ae52-4fe2f639c8db",
+    "name": "hyfin",
+    "lives": 1,
+    "rrs": 909.5,
+    "r1": 163,
+    "r2": 195,
+    "r3": 279
+  },
+  {
+    "uuid": "2f18f1bb-3f68-4b51-ab7e-c105089afd97",
+    "name": "CrowB#",
+    "lives": 1,
+    "rrs": 898.58,
+    "r1": 235,
+    "r2": 57,
+    "r3": 114
+  },
+  {
+    "uuid": "2f555a79-fb1e-4abe-b1a1-171ae52eb2b5",
+    "name": "ShadowFlames",
+    "lives": 3,
+    "rrs": 995.32,
+    "r1": 63,
+    "r2": 151,
+    "r3": 139
+  },
+  {
+    "uuid": "3128c966-51a4-4060-90cb-5870a7381364",
+    "name": "St4rry_Ski3z",
+    "lives": 3,
+    "rrs": 1033.42,
+    "r1": 47,
+    "r2": 129,
+    "r3": 112
+  },
+  {
+    "uuid": "319bc730-db00-44b8-8606-c5e361c2b979",
+    "name": "MarioFan",
+    "lives": 3,
+    "rrs": 1089.66,
+    "r1": 143,
+    "r2": 28,
+    "r3": 41
+  },
+  {
+    "uuid": "320eefb8-be53-41fc-bfaa-27f2e99c0be1",
+    "name": "Shardren",
+    "lives": 1,
+    "rrs": 795.75,
+    "r1": 213,
+    "r2": 176,
+    "r3": 229
+  },
+  {
+    "uuid": "3241222f-a747-4850-9286-c5b2d9da5d20",
+    "name": "avocadoexists",
+    "lives": 3,
+    "rrs": 1021.2,
+    "r1": 74,
+    "r2": 70,
+    "r3": 135
+  },
+  {
+    "uuid": "347e1858-b5e1-48d8-bc2d-37cc6d4c20fa",
+    "name": "Shorky",
+    "lives": 3,
+    "rrs": 1269.18,
+    "r1": 17,
+    "r2": 2,
+    "r3": 23
+  },
+  {
+    "uuid": "356af1c4-a20a-4230-a53a-14a0d1f8ea68",
+    "name": "FishOnTheInternet",
+    "lives": 2,
+    "rrs": 1069.68,
+    "r1": 111,
+    "r2": 149,
+    "r3": 75
+  },
+  {
+    "uuid": "363f7b55-13a6-4aa6-93fe-fb187ea835ff",
+    "name": "Epsilon",
+    "lives": 1,
+    "rrs": 997.93,
+    "r1": 125,
+    "r2": 289,
+    "r3": 195
+  },
+  {
+    "uuid": "37963079-60d7-4049-b335-afe78b9d725b",
+    "name": "ThatShowGuy",
+    "lives": 1,
+    "rrs": 964.01,
+    "r1": 145,
+    "r2": 30,
+    "r3": 158
+  },
+  {
+    "uuid": "37eadc7b-3bf8-4e52-a027-a50455203428",
+    "name": "smoov22",
+    "lives": 1,
+    "rrs": 952.76,
+    "r1": 256,
+    "r2": 302,
+    "r3": 100
+  },
+  {
+    "uuid": "38d436bb-c867-4c81-8711-42899f9c368c",
+    "name": "Alley%",
+    "lives": 1,
+    "rrs": 971,
+    "r1": 453,
+    "r2": 67,
+    "r3": 25
+  },
+  {
+    "uuid": "38fab2ce-28fa-401b-b3df-86d0b1ad9253",
+    "name": "ThePinkBunnyEmpire",
+    "lives": 3,
+    "rrs": 1229.27,
+    "r1": 21,
+    "r2": 13,
+    "r3": 51
+  },
+  {
+    "uuid": "39539e21-10fe-4ced-9f75-1a84316e0e69",
+    "name": "sictoabu",
+    "lives": 3,
+    "rrs": 1115.23,
+    "r1": 4,
+    "r2": 122,
+    "r3": 97
+  },
+  {
+    "uuid": "3991ba80-df7a-41b6-8828-ea74b8b01991",
+    "name": "exxpired dye",
+    "lives": 2,
+    "rrs": 1057.81,
+    "r1": 361,
+    "r2": 88,
+    "r3": 4
+  },
+  {
+    "uuid": "3a13e8ef-4fac-46c5-af8d-d0d6facf0644",
+    "name": "YoshiAwesum",
+    "lives": 2,
+    "rrs": 1076.81,
+    "r1": 87,
+    "r2": 200,
+    "r3": 60
+  },
+  {
+    "uuid": "3c629347-40f2-409d-81e4-fbde1059473e",
+    "name": "DatHam",
+    "lives": 1,
+    "rrs": 970.25,
+    "r1": 296,
+    "r2": 83,
+    "r3": 131
+  },
+  {
+    "uuid": "3e9e41b7-e3a3-431b-8709-ceefe8d81a4c",
+    "name": "jaydene19248",
+    "lives": 1,
+    "rrs": 866.32,
+    "r1": 347,
+    "r2": 156,
+    "r3": 186
+  },
+  {
+    "uuid": "4066771b-8133-43e8-a076-bad046acd030",
+    "name": "MineFlex_B",
+    "lives": 3,
+    "rrs": 1114.6,
+    "r1": 226,
+    "r2": 104,
+    "r3": 108
+  },
+  {
+    "uuid": "40d522dd-80bb-4580-afdf-fa5c2505bda2",
+    "name": "Daquan Huang",
+    "lives": 2,
+    "rrs": 1013.21,
+    "r1": 40,
+    "r2": 94,
+    "r3": 147
+  },
+  {
+    "uuid": "42305d5c-b4bf-48be-bbf5-f13ab75e741d",
+    "name": "BFBFan5346",
+    "lives": 1,
+    "rrs": 980.66,
+    "r1": 258,
+    "r2": 328,
+    "r3": 54
+  },
+  {
+    "uuid": "44e15771-9e2b-400f-b340-8b14d5767245",
+    "name": "ConvexProjects",
+    "lives": 3,
+    "rrs": 1080.33,
+    "r1": 49,
+    "r2": 125,
+    "r3": 70
+  },
+  {
+    "uuid": "456d4c80-7760-4f2e-93d6-193026845581",
+    "name": "DatFatCat137",
+    "lives": 1,
+    "rrs": 912.41,
+    "r1": 233,
+    "r2": 181,
+    "r3": 178
+  },
+  {
+    "uuid": "459fbdbb-2598-4032-93fc-73c36ee97d38",
+    "name": "Triko",
+    "lives": 2,
+    "rrs": 1066.36,
+    "r1": 8,
+    "r2": 54,
+    "r3": 99
+  },
+  {
+    "uuid": "4610e2fa-f20e-4380-8a60-f471485d1230",
+    "name": "#1 sigma Rizz lord",
+    "lives": 3,
+    "rrs": 1271.28,
+    "r1": 30,
+    "r2": 38,
+    "r3": 95
+  },
+  {
+    "uuid": "46781657-004a-4cc7-a650-807b1f2feeaf",
+    "name": "EeveeLuv",
+    "lives": 1,
+    "rrs": 967,
+    "r1": 52,
+    "r2": 315,
+    "r3": 14
+  },
+  {
+    "uuid": "47d0078f-ede7-4287-93eb-ab8899f173e8",
+    "name": "smil",
+    "lives": 2,
+    "rrs": 988.77,
+    "r1": 26,
+    "r2": 158,
+    "r3": 64
+  },
+  {
+    "uuid": "4a0ae4e8-6799-4ddf-8e75-fc2d29bbd20b",
+    "name": "Dumb Stuff",
+    "lives": 1,
+    "rrs": 901.85,
+    "r1": 444,
+    "r2": 43,
+    "r3": 91
+  },
+  {
+    "uuid": "4c256e3b-27ae-4bcd-b52a-14ea49a24789",
+    "name": "Juliansl",
+    "lives": 3,
+    "rrs": 1105.81,
+    "r1": 105,
+    "r2": 102,
+    "r3": 94
+  },
+  {
+    "uuid": "4c6a1981-1f04-4c2f-8b0c-a2ec600cb5c1",
+    "name": "Nonexistential",
+    "lives": 1,
+    "rrs": 979.07,
+    "r1": 206,
+    "r2": 209,
+    "r3": 279
+  },
+  {
+    "uuid": "4ef32d8d-cd4a-4b89-8420-a75daf84aba5",
+    "name": "random.123",
+    "lives": 2,
+    "rrs": 900.57,
+    "r1": 157,
+    "r2": 147,
+    "r3": 218
+  },
+  {
+    "uuid": "506b68f9-11ca-4e18-b626-8308071cfe56",
+    "name": "Alternavation",
+    "lives": 1,
+    "rrs": 1063.5,
+    "r1": 95,
+    "r2": 84,
+    "r3": 92
+  },
+  {
+    "uuid": "5119ce54-b903-4ba0-842a-93d631731654",
+    "name": "CloudySkyes",
+    "lives": 3,
+    "rrs": 1238.4,
+    "r1": 2,
+    "r2": 9,
+    "r3": 33
+  },
+  {
+    "uuid": "52f3367c-b0f3-4217-b96e-8c5609c8f059",
+    "name": "xXBombs_AwayXx",
+    "lives": 3,
+    "rrs": 1181.64,
+    "r1": 127,
+    "r2": 24,
+    "r3": 93
+  },
+  {
+    "uuid": "52f3f4e6-a924-496c-ba5a-9c3c583f3672",
+    "name": "One Night",
+    "lives": 1,
+    "rrs": 924.66,
+    "r1": 453,
+    "r2": 249,
+    "r3": 72
+  },
+  {
+    "uuid": "5444cef3-4237-488c-bc20-516d319a1979",
+    "name": "MysteriousGrimReaper",
+    "lives": 1,
+    "rrs": 978.22,
+    "r1": 175,
+    "r2": 208,
+    "r3": 271
+  },
+  {
+    "uuid": "54b0d5ab-b90e-47a5-bc56-95141a1e96fe",
+    "name": "mazuat",
+    "lives": 2,
+    "rrs": 1130.13,
+    "r1": 245,
+    "r2": 137,
+    "r3": 88
+  },
+  {
+    "uuid": "54b7fc67-6743-4352-8d34-5b7bd523fd11",
+    "name": "HexaForce",
+    "lives": 1,
+    "rrs": 972.3,
+    "r1": 381,
+    "r2": 48,
+    "r3": 164
+  },
+  {
+    "uuid": "55206488-bd19-46a5-86e4-06a36407e5c3",
+    "name": "fane757",
+    "lives": 2,
+    "rrs": 905.61,
+    "r1": 167,
+    "r2": 121,
+    "r3": 136
+  },
+  {
+    "uuid": "5696ca02-91dd-42ff-a8c2-bb5380e2b224",
+    "name": "Midnight Light",
+    "lives": 3,
+    "rrs": 1221.23,
+    "r1": 88,
+    "r2": 64,
+    "r3": 22
+  },
+  {
+    "uuid": "56a8f672-de4d-4ab5-ac99-02415915fbce",
+    "name": "PG2K",
+    "lives": 3,
+    "rrs": 1042.85,
+    "r1": 152,
+    "r2": 98,
+    "r3": 86
+  },
+  {
+    "uuid": "570f2536-86e6-4453-8280-c7d8e5f956e5",
+    "name": "Dark",
+    "lives": 3,
+    "rrs": 1267.7,
+    "r1": 69,
+    "r2": 113,
+    "r3": 43
+  },
+  {
+    "uuid": "57528b30-bfcc-4f6f-b84e-71239d9b3d0c",
+    "name": "ThePianoGuru",
+    "lives": 1,
+    "rrs": 965.1,
+    "r1": 151,
+    "r2": 27,
+    "r3": 196
+  },
+  {
+    "uuid": "58672bdd-7449-4ae6-88a3-f772cd623f27",
+    "name": "PoliteCheese1414",
+    "lives": 3,
+    "rrs": 1148.87,
+    "r1": 137,
+    "r2": 18,
+    "r3": 104
+  },
+  {
+    "uuid": "59421cec-f661-44c2-9fe8-64a8778fe6c9",
+    "name": "Sparrowcat",
+    "lives": 3,
+    "rrs": 1223.87,
+    "r1": 53,
+    "r2": 53,
+    "r3": 115
+  },
+  {
+    "uuid": "59c57486-c38c-4142-8365-112420f75264",
+    "name": "Pyos",
+    "lives": 1,
+    "rrs": 879.52,
+    "r1": 108,
+    "r2": 101,
+    "r3": 140
+  },
+  {
+    "uuid": "5a62ed6f-bbf4-4c79-b72d-e8bc1bd0f98a",
+    "name": "John Dubuc",
+    "lives": 1,
+    "rrs": 824.07,
+    "r1": 453,
+    "r2": 272,
+    "r3": 21
+  },
+  {
+    "uuid": "5c5ef159-8bef-4689-ab87-749bd32874e3",
+    "name": "fryuaj",
+    "lives": 1,
+    "rrs": 977.24,
+    "r1": 348,
+    "r2": 100,
+    "r3": 9
+  },
+  {
+    "uuid": "5e3e5e52-912a-4f59-abae-c39cb0f4337d",
+    "name": "Heronix",
+    "lives": 3,
+    "rrs": 1105.89,
+    "r1": 99,
+    "r2": 120,
+    "r3": 49
+  },
+  {
+    "uuid": "5e9b19aa-2d6b-41ff-9d6d-1ce5de23fe32",
+    "name": "AlexExists",
+    "lives": 1,
+    "rrs": 965.11,
+    "r1": 71,
+    "r2": 214,
+    "r3": 55
+  },
+  {
+    "uuid": "5eece9b0-1424-4665-b216-72c5ded5925e",
+    "name": "PaniniPancake",
+    "lives": 3,
+    "rrs": 1083.74,
+    "r1": 321,
+    "r2": 172,
+    "r3": 116
+  },
+  {
+    "uuid": "5ff55b39-13bc-41bf-ad8d-7c576641e46d",
+    "name": "YellowElectric",
+    "lives": 2,
+    "rrs": 1078.1,
+    "r1": 57,
+    "r2": 21,
+    "r3": 145
+  },
+  {
+    "uuid": "61d91ae3-7612-4997-9c6e-b4bc7b001f25",
+    "name": "terminatedslime",
+    "lives": 3,
+    "rrs": 1219.44,
+    "r1": 48,
+    "r2": 93,
+    "r3": 6
+  },
+  {
+    "uuid": "6272f3c3-b218-40cd-87d1-e5689cc91117",
+    "name": "MoltenAshes",
+    "lives": 1,
+    "rrs": 982.71,
+    "r1": 417,
+    "r2": 262,
+    "r3": 168
+  },
+  {
+    "uuid": "631bccd6-370f-4c9e-a3fd-38eb6b8dfeab",
+    "name": "Paintspot Infez",
+    "lives": 2,
+    "rrs": 1095.5,
+    "r1": 104,
+    "r2": 160,
+    "r3": 173
+  },
+  {
+    "uuid": "63efbbe6-af94-4d26-a69f-c13b7c900e10",
+    "name": "X_Ry",
+    "lives": 3,
+    "rrs": 1290.78,
+    "r1": 15,
+    "r2": 19,
+    "r3": 10
+  },
+  {
+    "uuid": "6556a010-f244-4d8f-be59-41038d3d2d01",
+    "name": "PriceTagFanatic",
+    "lives": 2,
+    "rrs": 1021.22,
+    "r1": 66,
+    "r2": 274,
+    "r3": 13
+  },
+  {
+    "uuid": "657c65d4-748a-47b4-8e06-0e92c919113a",
+    "name": "DewgongFTW",
+    "lives": 1,
+    "rrs": 816.62,
+    "r1": 103,
+    "r2": 174,
+    "r3": 217
+  },
+  {
+    "uuid": "678469bc-893c-4ed2-b606-cf5efb4cce0b",
+    "name": "namdoy",
+    "lives": 1,
+    "rrs": 999.04,
+    "r1": 78,
+    "r2": 218,
+    "r3": 252
+  },
+  {
+    "uuid": "69d6b088-407f-44af-aae4-243f6a169084",
+    "name": "Mikl Pickle",
+    "lives": 3,
+    "rrs": 1084.32,
+    "r1": 107,
+    "r2": 170,
+    "r3": 58
+  },
+  {
+    "uuid": "6b2d4950-1241-41d1-bf11-f5173796c3af",
+    "name": "AnEpik",
+    "lives": 1,
+    "rrs": 973.08,
+    "r1": 73,
+    "r2": 291,
+    "r3": 176
+  },
+  {
+    "uuid": "6bc5c434-1ad3-4cd2-989a-c6df14386dc0",
+    "name": "normalben",
+    "lives": 1,
+    "rrs": 877.11,
+    "r1": 218,
+    "r2": 138,
+    "r3": 174
+  },
+  {
+    "uuid": "6cd5ff09-dd4c-49fb-93a4-b60568800e46",
+    "name": "FROGLOCK",
+    "lives": 2,
+    "rrs": 905.24,
+    "r1": 208,
+    "r2": 180,
+    "r3": 241
+  },
+  {
+    "uuid": "6f9dfe53-a8ba-4a73-b0f9-f68a24086225",
+    "name": "JujuMas",
+    "lives": 3,
+    "rrs": 1256.53,
+    "r1": 44,
+    "r2": 50,
+    "r3": 11
+  },
+  {
+    "uuid": "73dcfe21-3203-4d1f-98fa-955581485b0c",
+    "name": "The Ilucuthen Empire",
+    "lives": 3,
+    "rrs": 1090.16,
+    "r1": 228,
+    "r2": 32,
+    "r3": 2
+  },
+  {
+    "uuid": "760dfe4d-a0a9-44dc-9bf3-d0d6adf614b3",
+    "name": "twpaz.",
+    "lives": 2,
+    "rrs": 1075.36,
+    "r1": 129,
+    "r2": 179,
+    "r3": 201
+  },
+  {
+    "uuid": "76bc04b7-288c-415e-89ae-662032dff7f0",
+    "name": "definitelynot.",
+    "lives": 1,
+    "rrs": 905.24,
+    "r1": 176,
+    "r2": 163,
+    "r3": 266
+  },
+  {
+    "uuid": "77a0e1bb-562a-4c8e-bd5a-26782cc9f977",
+    "name": "aaronvx",
+    "lives": 2,
+    "rrs": 1081.25,
+    "r1": 266,
+    "r2": 35,
+    "r3": 65
+  },
+  {
+    "uuid": "7820c891-bae9-4c4d-b200-07739b612223",
+    "name": "JustAToadBB",
+    "lives": 1,
+    "rrs": 955.88,
+    "r1": 149,
+    "r2": 4,
+    "r3": 32
+  },
+  {
+    "uuid": "79d75846-736f-45bf-b413-54993ece4177",
+    "name": "WholeNote1",
+    "lives": 3,
+    "rrs": 1046.34,
+    "r1": 84,
+    "r2": 141,
+    "r3": 127
+  },
+  {
+    "uuid": "7a268ab1-eb85-4a06-832c-ac67ea00b0c9",
+    "name": "PengiQuin",
+    "lives": 2,
+    "rrs": 1074.75,
+    "r1": 9,
+    "r2": 130,
+    "r3": 183
+  },
+  {
+    "uuid": "7b5fd806-f0c9-4083-9011-972cfec95f67",
+    "name": "Xyloba",
+    "lives": 3,
+    "rrs": 1210.34,
+    "r1": 225,
+    "r2": 52,
+    "r3": 123
+  },
+  {
+    "uuid": "7bf15d65-32c3-4dcf-89d8-37ea3fa09f35",
+    "name": "ashaisasmasha",
+    "lives": 2,
+    "rrs": 983.45,
+    "r1": 179,
+    "r2": 280,
+    "r3": 81
+  },
+  {
+    "uuid": "7eb3c6c2-0a9f-4b5c-a4aa-d11ca2f58e87",
+    "name": "BrokenSink",
+    "lives": 2,
+    "rrs": 1052.69,
+    "r1": 291,
+    "r2": 136,
+    "r3": 79
+  },
+  {
+    "uuid": "80c61097-4f7c-4dd3-a842-ea40c8f961db",
+    "name": "Twisted Taft",
+    "lives": 1,
+    "rrs": 1061.01,
+    "r1": 407,
+    "r2": 271,
+    "r3": 106
+  },
+  {
+    "uuid": "81070d6a-83dc-4286-b79f-5048b4d088bd",
+    "name": "LedybruhGuy",
+    "lives": 1,
+    "rrs": 866.81,
+    "r1": 198,
+    "r2": 283,
+    "r3": 34
+  },
+  {
+    "uuid": "817b522b-4858-4c8a-a0f8-2e201ec0d1ca",
+    "name": "whitecyclosa",
+    "lives": 3,
+    "rrs": 1216.16,
+    "r1": 211,
+    "r2": 66,
+    "r3": 26
+  },
+  {
+    "uuid": "8245eb1c-d6a2-4aa5-bbcf-48ffc04c09ac",
+    "name": "Nindragon471",
+    "lives": 1,
+    "rrs": 899.3,
+    "r1": 1,
+    "r2": 62,
+    "r3": 63
+  },
+  {
+    "uuid": "8273c213-f747-48bd-8c30-faeb0131d484",
+    "name": "LemonVenom",
+    "lives": 3,
+    "rrs": 1157.61,
+    "r1": 18,
+    "r2": 36,
+    "r3": 89
+  },
+  {
+    "uuid": "84c559b1-c58d-4c20-aaf8-da7d4b825ae5",
+    "name": "Graysandwich",
+    "lives": 2,
+    "rrs": 1071.45,
+    "r1": 50,
+    "r2": 65,
+    "r3": 167
+  },
+  {
+    "uuid": "85fc0a48-12c9-4a3a-8f1b-504b3b88feb2",
+    "name": "garf",
+    "lives": 1,
+    "rrs": 1026.41,
+    "r1": 221,
+    "r2": 282,
+    "r3": 151
+  },
+  {
+    "uuid": "86aa5c78-69c3-4c56-93ac-8acf3ee941f3",
+    "name": "J_duude",
+    "lives": 3,
+    "rrs": 1252.58,
+    "r1": 22,
+    "r2": 71,
+    "r3": 83
+  },
+  {
+    "uuid": "8722f13a-b5a0-4ba8-9954-67863ba3e907",
+    "name": "Koopa472",
+    "lives": 3,
+    "rrs": 1198.71,
+    "r1": 117,
+    "r2": 8,
+    "r3": 5
+  },
+  {
+    "uuid": "879cd333-1bc1-4867-9efb-4cfb037bb639",
+    "name": "SinisterShovel",
+    "lives": 3,
+    "rrs": 1221.58,
+    "r1": 59,
+    "r2": 23,
+    "r3": 48
+  },
+  {
+    "uuid": "887b85ec-81c8-4cc4-975b-2c704a36d518",
+    "name": "ArnoobExtra",
+    "lives": 2,
+    "rrs": 1181.44,
+    "r1": 33,
+    "r2": 187,
+    "r3": 90
+  },
+  {
+    "uuid": "88fd44fd-c24a-4a1f-a046-2deacf456cdf",
+    "name": "milster08",
+    "lives": 2,
+    "rrs": 982.04,
+    "r1": 195,
+    "r2": 347,
+    "r3": 46
+  },
+  {
+    "uuid": "8b15177a-dad3-45b4-85ae-7826b5985ad9",
+    "name": "‎",
+    "lives": 3,
+    "rrs": 1059.22,
+    "r1": 16,
+    "r2": 59,
+    "r3": 125
+  },
+  {
+    "uuid": "8c666c87-dd6d-48f5-a8d7-b2d57788c0c4",
+    "name": "Moralitea",
+    "lives": 3,
+    "rrs": 1078.15,
+    "r1": 85,
+    "r2": 173,
+    "r3": 120
+  },
+  {
+    "uuid": "8d70332c-b017-4b1a-a529-31f71f69d060",
+    "name": "losered",
+    "lives": 4,
+    "rrs": 1311.18,
+    "r1": 10,
+    "r2": 7,
+    "r3": 117
+  },
+  {
+    "uuid": "8f8eb82c-aa39-4a82-b38e-da89cb51d7f9",
+    "name": "cloverpepsi",
+    "lives": 2,
+    "rrs": 1113.79,
+    "r1": 231,
+    "r2": 235,
+    "r3": 96
+  },
+  {
+    "uuid": "8feea67b-67f3-4a8a-8c07-e0001507665e",
+    "name": "Pancake",
+    "lives": 3,
+    "rrs": 1051.04,
+    "r1": 165,
+    "r2": 90,
+    "r3": 80
+  },
+  {
+    "uuid": "904ce03d-6a52-44d7-a4b4-6a02507cd209",
+    "name": "PizzaEnjoyer",
+    "lives": 1,
+    "rrs": 933.73,
+    "r1": 252,
+    "r2": 119,
+    "r3": 253
+  },
+  {
+    "uuid": "91841336-129d-4d5e-9c56-2c314173526d",
+    "name": "Cpink",
+    "lives": 1,
+    "rrs": 949.41,
+    "r1": 113,
+    "r2": 142,
+    "r3": 148
+  },
+  {
+    "uuid": "92af209f-4954-4297-a20a-df5b0d03f706",
+    "name": "Cube492",
+    "lives": 2,
+    "rrs": 970.9,
+    "r1": 453,
+    "r2": 267,
+    "r3": 118
+  },
+  {
+    "uuid": "931b7d8d-ef74-4da6-8e90-800e6ef1559c",
+    "name": "Indigo",
+    "lives": 2,
+    "rrs": 1051.2,
+    "r1": 101,
+    "r2": 91,
+    "r3": 256
+  },
+  {
+    "uuid": "93b72830-199b-4da3-9abf-4b3e6d3477cf",
+    "name": "08_BTR",
+    "lives": 1,
+    "rrs": 962.29,
+    "r1": 109,
+    "r2": 307,
+    "r3": 181
+  },
+  {
+    "uuid": "94ba3a91-77c8-46e4-8572-fcfebfe93044",
+    "name": "napptapp",
+    "lives": 1,
+    "rrs": 817.61,
+    "r1": 312,
+    "r2": 246,
+    "r3": 47
+  },
+  {
+    "uuid": "956761d0-e8d6-4f5b-b0d3-72fb222c05bb",
+    "name": "jade",
+    "lives": 1,
+    "rrs": 826,
+    "r1": 450,
+    "r2": 359,
+    "r3": 279
+  },
+  {
+    "uuid": "958ee970-443a-448f-8eaf-e24cd483c92d",
+    "name": "Parallel Paperbacks",
+    "lives": 1,
+    "rrs": 1037.01,
+    "r1": 51,
+    "r2": 222,
+    "r3": 161
+  },
+  {
+    "uuid": "97a18937-2226-48dc-8393-33a6e2aad1e5",
+    "name": "notexi",
+    "lives": 1,
+    "rrs": 1052.11,
+    "r1": 319,
+    "r2": 82,
+    "r3": 157
+  },
+  {
+    "uuid": "989e7378-3575-4eb8-8ff7-14aab5ccffba",
+    "name": "Blaze",
+    "lives": 1,
+    "rrs": 990.17,
+    "r1": 98,
+    "r2": 266,
+    "r3": 238
+  },
+  {
+    "uuid": "9a0a1f31-5d2a-460f-a78b-43807c0f57b9",
+    "name": "CringeCat",
+    "lives": 1,
+    "rrs": 958.78,
+    "r1": 128,
+    "r2": 359,
+    "r3": 279
+  },
+  {
+    "uuid": "9a997d92-10e3-46d7-91ca-367920bf6478",
+    "name": "thedogegamer90",
+    "lives": 1,
+    "rrs": 976.16,
+    "r1": 219,
+    "r2": 185,
+    "r3": 17
+  },
+  {
+    "uuid": "9b36d193-3d61-4e90-ba45-6547eda85c5d",
+    "name": "Orange Cary Superfan",
+    "lives": 3,
+    "rrs": 1049.34,
+    "r1": 81,
+    "r2": 99,
+    "r3": 45
+  },
+  {
+    "uuid": "9cf36132-794a-4bba-830e-2b263bb02a35",
+    "name": "Zettex",
+    "lives": 1,
+    "rrs": 1090.4,
+    "r1": 19,
+    "r2": 206,
+    "r3": 110
+  },
+  {
+    "uuid": "9ee779a5-3280-453c-8d9c-5b9c6039da3f",
+    "name": "Bazinga_9000",
+    "lives": 1,
+    "rrs": 925,
+    "r1": 164,
+    "r2": 161,
+    "r3": 162
+  },
+  {
+    "uuid": "a772e03b-2217-4f0d-bf5b-9b9f96f5489f",
+    "name": "- Celestial19 -",
+    "lives": 2,
+    "rrs": 971.48,
+    "r1": 415,
+    "r2": 25,
+    "r3": 56
+  },
+  {
+    "uuid": "a8700ad4-018c-4ffd-a0fb-abde187c05ee",
+    "name": "Laurceny",
+    "lives": 2,
+    "rrs": 1048.64,
+    "r1": 199,
+    "r2": 92,
+    "r3": 239
+  },
+  {
+    "uuid": "a8f85c7d-49ae-435a-9706-54cf4c334307",
+    "name": "Ballam",
+    "lives": 1,
+    "rrs": 953.96,
+    "r1": 173,
+    "r2": 73,
+    "r3": 171
+  },
+  {
+    "uuid": "ac987f70-307d-413a-ad74-87df4e933743",
+    "name": "Augie279",
+    "lives": 1,
+    "rrs": 981.75,
+    "r1": 244,
+    "r2": 103,
+    "r3": 254
+  },
+  {
+    "uuid": "acc7b380-38fe-430d-af36-af863658cc0e",
+    "name": "Jac4",
+    "lives": 1,
+    "rrs": 968.1,
+    "r1": 216,
+    "r2": 134,
+    "r3": 98
+  },
+  {
+    "uuid": "ace0d22d-334c-434f-9787-5ae08bdd4f7a",
+    "name": "Charito",
+    "lives": 3,
+    "rrs": 1120.7,
+    "r1": 453,
+    "r2": 37,
+    "r3": 42
+  },
+  {
+    "uuid": "acf690c2-484a-4d33-b715-2b83b255440f",
+    "name": "Foxrish",
+    "lives": 1,
+    "rrs": 927.29,
+    "r1": 237,
+    "r2": 133,
+    "r3": 50
+  },
+  {
+    "uuid": "adab9f83-2f42-40f1-b312-6bdd4962b44c",
+    "name": "italic177",
+    "lives": 3,
+    "rrs": 1076.41,
+    "r1": 263,
+    "r2": 157,
+    "r3": 122
+  },
+  {
+    "uuid": "adddfa56-40ca-4a2c-9876-b02dcdce2024",
+    "name": "stephan12387",
+    "lives": 2,
+    "rrs": 1041.03,
+    "r1": 191,
+    "r2": 197,
+    "r3": 74
+  },
+  {
+    "uuid": "afda8a68-67ba-4a47-b465-c06e4ff8ea90",
+    "name": "Exhalexa",
+    "lives": 2,
+    "rrs": 1034.14,
+    "r1": 171,
+    "r2": 259,
+    "r3": 67
+  },
+  {
+    "uuid": "b0202168-26d6-4605-b66c-9e78f418a180",
+    "name": "Cohaki",
+    "lives": 2,
+    "rrs": 1140.78,
+    "r1": 55,
+    "r2": 75,
+    "r3": 153
+  },
+  {
+    "uuid": "b02d70a0-01f3-4dcd-a979-114bc5c29dc3",
+    "name": "cashedcredits",
+    "lives": 2,
+    "rrs": 1049.73,
+    "r1": 133,
+    "r2": 205,
+    "r3": 130
+  },
+  {
+    "uuid": "b2072afe-6a08-4d5c-828d-6754c16a68dc",
+    "name": "Metagross_HRV",
+    "lives": 1,
+    "rrs": 853.86,
+    "r1": 123,
+    "r2": 242,
+    "r3": 247
+  },
+  {
+    "uuid": "b39286ab-1176-4497-8b8c-0b164c5ff452",
+    "name": "ToffeeLime",
+    "lives": 1,
+    "rrs": 976.75,
+    "r1": 96,
+    "r2": 22,
+    "r3": 224
+  },
+  {
+    "uuid": "b3cc4231-66fe-4836-9495-68f6afde1213",
+    "name": "60mo",
+    "lives": 1,
+    "rrs": 957.33,
+    "r1": 414,
+    "r2": 159,
+    "r3": 223
+  },
+  {
+    "uuid": "b47e7ee1-af64-4305-90eb-ac1ce4c6a510",
+    "name": "Me T. Pickle",
+    "lives": 1,
+    "rrs": 835.55,
+    "r1": 387,
+    "r2": 177,
+    "r3": 231
+  },
+  {
+    "uuid": "b49eb126-bcf5-469a-9516-95b698e309de",
+    "name": "Meptune",
+    "lives": 2,
+    "rrs": 919.05,
+    "r1": 120,
+    "r2": 183,
+    "r3": 172
+  },
+  {
+    "uuid": "b58a2724-f794-44fe-969f-1c05a9b9cbe6",
+    "name": "goobrey",
+    "lives": 3,
+    "rrs": 1151.72,
+    "r1": 75,
+    "r2": 95,
+    "r3": 28
+  },
+  {
+    "uuid": "b5c74768-a772-4e98-8387-afff5ca1c261",
+    "name": "BrendanTW",
+    "lives": 1,
+    "rrs": 878.84,
+    "r1": 315,
+    "r2": 123,
+    "r3": 270
+  },
+  {
+    "uuid": "ba01c49a-17c2-4496-97c5-b0939d71f6c9",
+    "name": "ALITL",
+    "lives": 3,
+    "rrs": 1207.63,
+    "r1": 13,
+    "r2": 29,
+    "r3": 107
+  },
+  {
+    "uuid": "bab372ed-5272-4f6f-a1eb-b79fd6da456a",
+    "name": "Cocoa",
+    "lives": 3,
+    "rrs": 1086.99,
+    "r1": 121,
+    "r2": 42,
+    "r3": 119
+  },
+  {
+    "uuid": "bc1b5c59-3ed7-400e-b6cf-cb257081b9cf",
+    "name": "Amelia, Ameliorator of the Eighty-Three Skies",
+    "lives": 1,
+    "rrs": 945.39,
+    "r1": 270,
+    "r2": 72,
+    "r3": 202
+  },
+  {
+    "uuid": "bdd70ed2-d841-419e-92bc-61ab4a226f17",
+    "name": "tr_",
+    "lives": 3,
+    "rrs": 1138.68,
+    "r1": 41,
+    "r2": 114,
+    "r3": 77
+  },
+  {
+    "uuid": "c04791dc-87c7-402d-8791-51286ba6a14b",
+    "name": "IntersectingPlanes",
+    "lives": 3,
+    "rrs": 1149.46,
+    "r1": 67,
+    "r2": 34,
+    "r3": 20
+  },
+  {
+    "uuid": "c152cff6-f35b-463c-aff6-46f1e4607252",
+    "name": "Gizmote",
+    "lives": 3,
+    "rrs": 1122.16,
+    "r1": 3,
+    "r2": 131,
+    "r3": 128
+  },
+  {
+    "uuid": "c19fcb5f-886f-4562-8714-f4409f4ed249",
+    "name": "Earth Plume",
+    "lives": 1,
+    "rrs": 979.32,
+    "r1": 242,
+    "r2": 81,
+    "r3": 250
+  },
+  {
+    "uuid": "c1a29d36-62a9-4056-9965-4235d18a7a7d",
+    "name": "Purplegaze",
+    "lives": 3,
+    "rrs": 1255.1,
+    "r1": 83,
+    "r2": 61,
+    "r3": 30
+  },
+  {
+    "uuid": "c1f87b27-5efc-4f6a-b5ec-0f5a9ea916ae",
+    "name": "Twiggy",
+    "lives": 2,
+    "rrs": 1081.82,
+    "r1": 196,
+    "r2": 215,
+    "r3": 193
+  },
+  {
+    "uuid": "c29a32fc-f593-4f2b-a790-c187748cee3a",
+    "name": "Chad",
+    "lives": 1,
+    "rrs": 955.16,
+    "r1": 259,
+    "r2": 193,
+    "r3": 113
+  },
+  {
+    "uuid": "c354ff38-45d3-4af0-bc82-e84544fa57ba",
+    "name": "recc",
+    "lives": 3,
+    "rrs": 1177.12,
+    "r1": 24,
+    "r2": 74,
+    "r3": 87
+  },
+  {
+    "uuid": "c391ad38-217d-4981-ba0e-d40305c245c7",
+    "name": "Zaffricious",
+    "lives": 2,
+    "rrs": 1053.48,
+    "r1": 62,
+    "r2": 40,
+    "r3": 210
+  },
+  {
+    "uuid": "c3d44c47-56fe-4794-94ec-dc4504d98508",
+    "name": "Srimochi",
+    "lives": 2,
+    "rrs": 1114.25,
+    "r1": 80,
+    "r2": 232,
+    "r3": 159
+  },
+  {
+    "uuid": "c56e13e1-41c3-47b7-bd9b-09cc30e52db9",
+    "name": "Flambeetle",
+    "lives": 2,
+    "rrs": 1008,
+    "r1": 317,
+    "r2": 128,
+    "r3": 134
+  },
+  {
+    "uuid": "c654acd5-3ca8-4f0c-840e-ec1d2ea32bf1",
+    "name": "Remy",
+    "lives": 2,
+    "rrs": 1011.96,
+    "r1": 184,
+    "r2": 17,
+    "r3": 69
+  },
+  {
+    "uuid": "c8000544-db14-4837-96f4-fe2899f99dd5",
+    "name": "Gman",
+    "lives": 2,
+    "rrs": 1046.1,
+    "r1": 223,
+    "r2": 116,
+    "r3": 163
+  },
+  {
+    "uuid": "c8904326-5e57-4ead-8f0c-77ae33fb3a38",
+    "name": "+QuinDex+",
+    "lives": 2,
+    "rrs": 898.98,
+    "r1": 141,
+    "r2": 220,
+    "r3": 124
+  },
+  {
+    "uuid": "c91c0955-31ee-439c-895c-a37ed676271e",
+    "name": "Neonth",
+    "lives": 1,
+    "rrs": 993.89,
+    "r1": 375,
+    "r2": 3,
+    "r3": 103
+  },
+  {
+    "uuid": "c957e9ff-1c13-41e5-839f-e1b87741a880",
+    "name": "iRDM",
+    "lives": 3,
+    "rrs": 1215.8,
+    "r1": 25,
+    "r2": 63,
+    "r3": 109
+  },
+  {
+    "uuid": "ca3f1de6-402e-4791-8ed3-2b4d258aec50",
+    "name": "girlbossed.",
+    "lives": 2,
+    "rrs": 916.72,
+    "r1": 183,
+    "r2": 153,
+    "r3": 279
+  },
+  {
+    "uuid": "ca97a819-6be8-4c5c-96c4-402c0940ca55",
+    "name": "hydrogencitrus",
+    "lives": 3,
+    "rrs": 1163.93,
+    "r1": 38,
+    "r2": 55,
+    "r3": 38
+  },
+  {
+    "uuid": "cab86533-d8c0-4105-ae33-326bc8a90ebb",
+    "name": "Catworld",
+    "lives": 3,
+    "rrs": 1220.16,
+    "r1": 23,
+    "r2": 69,
+    "r3": 3
+  },
+  {
+    "uuid": "cac318f4-f44c-4120-82ff-713ecffc426f",
+    "name": "geobica",
+    "lives": 2,
+    "rrs": 1018.91,
+    "r1": 147,
+    "r2": 239,
+    "r3": 133
+  },
+  {
+    "uuid": "cb0e3421-305e-432c-b639-64c5bae6b80f",
+    "name": "kuminda.water.supply",
+    "lives": 3,
+    "rrs": 1123.11,
+    "r1": 6,
+    "r2": 139,
+    "r3": 57
+  },
+  {
+    "uuid": "cdcdd144-97a8-4114-b675-4d1aaf64b492",
+    "name": "Terrasol",
+    "lives": 1,
+    "rrs": 991.33,
+    "r1": 70,
+    "r2": 265,
+    "r3": 82
+  },
+  {
+    "uuid": "ce89d300-3e14-45f9-9fa8-0e98a2c71274",
+    "name": "Suit Quartz Dice",
+    "lives": 1,
+    "rrs": 722.97,
+    "r1": 440,
+    "r2": 148,
+    "r3": 279
+  },
+  {
+    "uuid": "ce966f06-819c-4152-b1ba-b00b8c8d1411",
+    "name": "Creative Casey",
+    "lives": 2,
+    "rrs": 1086.26,
+    "r1": 118,
+    "r2": 15,
+    "r3": 27
+  },
+  {
+    "uuid": "ceb668e2-94f4-4549-a1cf-567994964105",
+    "name": "pfysche",
+    "lives": 1,
+    "rrs": 1048.8,
+    "r1": 352,
+    "r2": 190,
+    "r3": 205
+  },
+  {
+    "uuid": "cf92b3a3-2d7d-491d-b2d9-c2e764de8f61",
+    "name": "Yuakim",
+    "lives": 2,
+    "rrs": 952.37,
+    "r1": 441,
+    "r2": 178,
+    "r3": 154
+  },
+  {
+    "uuid": "d4383a62-c988-40b5-ac7f-3be1f5eda198",
+    "name": "Funo'",
+    "lives": 2,
+    "rrs": 1062.9,
+    "r1": 205,
+    "r2": 168,
+    "r3": 149
+  },
+  {
+    "uuid": "d48f8815-67df-4bab-bd70-61df5987f788",
+    "name": "TieTiePerson",
+    "lives": 3,
+    "rrs": 1329.29,
+    "r1": 77,
+    "r2": 1,
+    "r3": 1
+  },
+  {
+    "uuid": "d4a01392-b90c-4a1d-b04d-f41a2ab141d2",
+    "name": "JCL Kaytwo",
+    "lives": 1,
+    "rrs": 988.97,
+    "r1": 132,
+    "r2": 146,
+    "r3": 15
+  },
+  {
+    "uuid": "d62d275a-5b09-4031-b726-ea378090a179",
+    "name": "Chew804",
+    "lives": 2,
+    "rrs": 1003.18,
+    "r1": 79,
+    "r2": 313,
+    "r3": 101
+  },
+  {
+    "uuid": "d84ff331-b697-4bdd-ac08-e51ac4e29a3c",
+    "name": "GreenieGuest",
+    "lives": 3,
+    "rrs": 1248.83,
+    "r1": 153,
+    "r2": 60,
+    "r3": 19
+  },
+  {
+    "uuid": "d8d19021-c2f2-4804-a8c8-d8ed18cda003",
+    "name": "RAMTurtle",
+    "lives": 2,
+    "rrs": 941.34,
+    "r1": 186,
+    "r2": 359,
+    "r3": 62
+  },
+  {
+    "uuid": "daea66e2-6f04-4eaf-825a-e04f0cc2b54a",
+    "name": "rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr",
+    "lives": 1,
+    "rrs": 834.85,
+    "r1": 399,
+    "r2": 16,
+    "r3": 121
+  },
+  {
+    "uuid": "dd817910-8b9d-4835-84a6-f10bb86e49aa",
+    "name": "4DJumpman256",
+    "lives": 3,
+    "rrs": 1240.5,
+    "r1": 72,
+    "r2": 31,
+    "r3": 170
+  },
+  {
+    "uuid": "ddc678ca-d094-42d7-9f56-024fd2e5cc7d",
+    "name": "Lyrical TyrAnt",
+    "lives": 2,
+    "rrs": 1038.02,
+    "r1": 7,
+    "r2": 165,
+    "r3": 177
+  },
+  {
+    "uuid": "dddde183-4913-47f2-8df3-1ce36cf2567e",
+    "name": "gmo",
+    "lives": 1,
+    "rrs": 908.62,
+    "r1": 212,
+    "r2": 348,
+    "r3": 187
+  },
+  {
+    "uuid": "dfd8a6ed-cc5a-4d52-83be-55e3b5e13ec1",
+    "name": "TheMJKWorld",
+    "lives": 1,
+    "rrs": 917.09,
+    "r1": 138,
+    "r2": 217,
+    "r3": 142
+  },
+  {
+    "uuid": "e0119121-ccf2-4257-89da-200b9ab17437",
+    "name": "lipu Kijoke",
+    "lives": 1,
+    "rrs": 991.18,
+    "r1": 97,
+    "r2": 144,
+    "r3": 272
+  },
+  {
+    "uuid": "e1cf9e04-ec00-41b6-9b71-1d0de9cc6472",
+    "name": "s1nblitz",
+    "lives": 2,
+    "rrs": 851.07,
+    "r1": 46,
+    "r2": 117,
+    "r3": 111
+  },
+  {
+    "uuid": "e4726c05-4945-4512-8cf3-e58b0ec9ef2e",
+    "name": "Pink man",
+    "lives": 3,
+    "rrs": 1080.73,
+    "r1": 189,
+    "r2": 171,
+    "r3": 7
+  },
+  {
+    "uuid": "e4847160-17b0-4ffb-97ac-9aff648e16f3",
+    "name": "SooperHighper",
+    "lives": 1,
+    "rrs": 1030.69,
+    "r1": 215,
+    "r2": 210,
+    "r3": 204
+  },
+  {
+    "uuid": "e5e585d0-b084-4826-88c9-1c7392e0a337",
+    "name": "$EeveeLikesBREAD$",
+    "lives": 1,
+    "rrs": 963.91,
+    "r1": 94,
+    "r2": 247,
+    "r3": 211
+  },
+  {
+    "uuid": "e7eed87d-5023-491b-b255-846474f444f9",
+    "name": "MayUnderFlowers",
+    "lives": 3,
+    "rrs": 1218.97,
+    "r1": 56,
+    "r2": 44,
+    "r3": 137
+  },
+  {
+    "uuid": "e808bbd9-9529-4b77-b212-95e8470bafd6",
+    "name": "cereseries",
+    "lives": 2,
+    "rrs": 978.66,
+    "r1": 140,
+    "r2": 189,
+    "r3": 71
+  },
+  {
+    "uuid": "e80cca63-32a7-48cc-80b6-7ddae374003e",
+    "name": "Real presidnet of usa!",
+    "lives": 2,
+    "rrs": 1017.29,
+    "r1": 110,
+    "r2": 47,
+    "r3": 35
+  },
+  {
+    "uuid": "e8ca6a21-4ad1-47a5-bd4f-531538fa3c03",
+    "name": "RainbowKnight",
+    "lives": 2,
+    "rrs": 1191.73,
+    "r1": 106,
+    "r2": 26,
+    "r3": 156
+  },
+  {
+    "uuid": "e9a7b312-ef42-43bc-848e-d920bd1715cc",
+    "name": "springymint",
+    "lives": 1,
+    "rrs": 854.63,
+    "r1": 112,
+    "r2": 359,
+    "r3": 68
+  },
+  {
+    "uuid": "ec7e29b8-698b-4d5c-9078-9a17bcf92f9d",
+    "name": "#zackd",
+    "lives": 1,
+    "rrs": 1053.99,
+    "r1": 327,
+    "r2": 186,
+    "r3": 274
+  },
+  {
+    "uuid": "ecf2bba0-4cc1-4efd-9403-a1152050c32f",
+    "name": "Himo",
+    "lives": 2,
+    "rrs": 1154.2,
+    "r1": 251,
+    "r2": 41,
+    "r3": 18
+  },
+  {
+    "uuid": "ee5e0d15-ba76-478a-a5ca-dbe981534eab",
+    "name": "EarthenOchre",
+    "lives": 1,
+    "rrs": 943.8,
+    "r1": 122,
+    "r2": 152,
+    "r3": 61
+  },
+  {
+    "uuid": "f0795389-b322-45e8-bab1-a78d3b0682b8",
+    "name": "Maildropfolder",
+    "lives": 1,
+    "rrs": 897.8,
+    "r1": 261,
+    "r2": 299,
+    "r3": 141
+  },
+  {
+    "uuid": "f51e6230-a5b6-4312-ac40-9b33d60aad0f",
+    "name": "pokeysoda",
+    "lives": 2,
+    "rrs": 991.41,
+    "r1": 146,
+    "r2": 162,
+    "r3": 279
+  },
+  {
+    "uuid": "f8ec6efb-05f0-4eb6-8258-5f122157bdd9",
+    "name": "Deckardv",
+    "lives": 3,
+    "rrs": 1136.74,
+    "r1": 363,
+    "r2": 127,
+    "r3": 76
+  },
+  {
+    "uuid": "f966f474-9a1f-42af-b72a-6fb498578f6d",
+    "name": "Meowicat",
+    "lives": 2,
+    "rrs": 1120.48,
+    "r1": 236,
+    "r2": 85,
+    "r3": 31
+  },
+  {
+    "uuid": "fad66020-f449-45f3-be30-e5cc4182e1aa",
+    "name": "Water Chestnut",
+    "lives": 3,
+    "rrs": 1145.65,
+    "r1": 14,
+    "r2": 115,
+    "r3": 126
+  },
+  {
+    "uuid": "fbc0751d-b49e-4ac5-84a4-d998139a7dd0",
+    "name": "Yume Flamigiri",
+    "lives": 2,
+    "rrs": 1068.15,
+    "r1": 378,
+    "r2": 111,
+    "r3": 244
+  },
+  {
+    "uuid": "fc100ae7-b967-4ee5-8563-a0e2f2b9361d",
+    "name": "MelnSlce",
+    "lives": 1,
+    "rrs": 981.68,
+    "r1": 185,
+    "r2": 359,
+    "r3": 52
+  },
+  {
+    "uuid": "fc746d06-d31e-47cb-b253-cb7351a37bca",
+    "name": "Blue Gelatin",
+    "lives": 2,
+    "rrs": 1000.8,
+    "r1": 100,
+    "r2": 107,
+    "r3": 169
+  },
+  {
+    "uuid": "fd3645d6-0858-40bd-bcfe-ba32cb0bfe32",
+    "name": "Magnetty Girl",
+    "lives": 1,
+    "rrs": 974.86,
+    "r1": 161,
+    "r2": 248,
+    "r3": 197
+  },
+  {
+    "uuid": "fd4afce1-a7e3-4b0a-ba67-d6fa4b220f32",
+    "name": "TrainGoBoom",
+    "lives": 2,
+    "rrs": 1088.29,
+    "r1": 150,
+    "r2": 105,
+    "r3": 185
+  },
+  {
+    "uuid": "fd824ade-4c1e-461b-9248-77c813b29312",
+    "name": "TaxEvader357",
+    "lives": 1,
+    "rrs": 1100.16,
+    "r1": 325,
+    "r2": 145,
+    "r3": 29
+  },
+  {
+    "uuid": "fdff38bc-61fb-4785-a7f3-3412b0a939e3",
+    "name": "iTeoti",
+    "lives": 3,
+    "rrs": 1096.53,
+    "r1": 453,
+    "r2": 6,
+    "r3": 16
+  }
+]

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>EWOWordle | GreenieGuest</title>
+		<!-- The style.css file allows you to change the look of your web pages.
+		If you include the next line in all your web pages, they will all share the same look.
+		This makes it easier to make new pages for your site. -->
+		<link href="/ewow.css" rel="stylesheet" type="text/css" media="all">
+		<link rel="icon" type="image/x-icon" href="images/favicon.ico">
+	</head>
+	
+	<body>
+		<img src="images/ewowordleTitle.png" style="width: 400px; height: auto; display: block; margin-left: auto; margin-right: auto;">
+		<div class="topbar" style="margin: 0 auto; height: 25px; padding: 5px; max-width: 750px; background-color: DodgerBlue;">
+			<b style="vertical-align: middle">EWOW Not a Response Verifier</b>
+		</div>
+		<div class="infobox" style="margin: 0 auto; padding: 4px; max-width: 750px;">
+			<h2>Now updated for EWOW 14B!</h2>
+			<p> Prime Scorb needs help remembering an EWOWer, but every wrong guess detonates one of his 10 lives! Can you help out?</p>
+			<p> (Update: Changed rolling scores to rolling placements) </p>
+			<p> (DNP on ranks = 453(R12), 359(R13), 279(R14)) </p>
+			<p> (Note: for the ranks only, arrows 🔼🔽 tell whether it is higher or lower on the leaderboard, not if the number itself is higher or lower) </p>
+
+			<input id="input" type="text" autofocus autocomplete="off" placeholder="bababnas">
+			<p id="status" style="text-align: center;">I'm thinking of a living EWOWer...</p>
+			<p id="lives" style="text-align: center;"> Lives: ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️</p>
+
+			<button type="button" onclick="check()" style="display: block; margin: 0 auto;"> Submit Your Response!</button>
+			<br>
+
+			<table id="hint" style="margin: 0 auto;">
+				<thead>
+				<tr><th>Guess</th><th>Lives</th><th>Total RRs</th><th>R12 Rank</th><th>R13 Rank</th><th>R14 Rank</th></tr>
+				</thead>
+				<tbody>
+				<!-- JavaScript will insert rows here -->
+				</tbody>
+			</table>
+		</div>
+		<br>
+		<footer>
+			<a href="https://ewow.page/"><img src="https://ewow.page/images/ewow-page.gif?1" alt="ewow.page" title="ARE WE EWOWING YET?" style="width: 176px; height: 62px"></a>
+			<br>
+			<h6>Your stuff is not saved ANYWHERE and will magically disappear as soon as you refresh the page. But you dont have any stuff here.</h6>
+		</footer>
+		<script src="ewowordle.js"></script>
+		<script type="text/javascript" src="https://github.com/niklasvh/html2canvas/releases/download/0.5.0-alpha1/html2canvas.js"></script>
+	</body>
+</html>
